@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ABPLoading">
+        <item name="minimumWidth">48dip</item>
+        <item name="maximumWidth">48dip</item>
+        <item name="minimumHeight">48dip</item>
+        <item name="maximumHeight">48dip</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+    
+    <style name="ABPLoading.Large">
+        <item name="minimumWidth">76dip</item>
+        <item name="maximumWidth">76dip</item>
+        <item name="minimumHeight">76dip</item>
+        <item name="maximumHeight">76dip</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+    
+    <style name="ABPLoading.Small">
+        <item name="minimumWidth">24dip</item>
+        <item name="maximumWidth">24dip</item>
+        <item name="minimumHeight">24dip</item>
+        <item name="maximumHeight">24dip</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+
+</resources>

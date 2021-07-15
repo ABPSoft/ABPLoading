@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ABPLoading">
+        <attr name="minimumWidth" format="dimension"/>
+        <attr name="maximumWidth" format="dimension" />
+        <attr name="minimumHeight" format="dimension" />
+        <attr name="maximumHeight" format="dimension" />
+        <attr name="indicatorName" format="string" />
+        <attr name="indicatorColor" format="color" />
+    </declare-styleable>
+</resources>
