@@ -2,6 +2,8 @@ plugins {
     id 'com.android.library'
 }
 
+group='com.aminbahrami'
+
 android {
     compileSdkVersion 31
     buildToolsVersion "30.0.2"
